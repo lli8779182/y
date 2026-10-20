@@ -1,0 +1,647 @@
+{
+   "spider": "./jar/xbpq.jar",
+  
+  "sites": [
+    {
+      "key": "51爆料.py",
+      "name": "💥51爆料💥",
+      "type": 3,
+      "api": "./lib/51爆料.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "51吃瓜 (1).py",
+      "name": "51吃瓜 (1)",
+      "type": 3,
+      "api": "./lib/51吃瓜 (1).py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "色播聚合.py",
+      "name": "💥色播聚合444💥",
+      "api": "./lib/sebojuhe.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "采集集合",
+      "name": "👭采集集合👭",
+      "type": 4,
+      "api": "http://zhangqun1818.serv00.net/cj/cjjh.php",
+      "searchable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "ext": "0",
+      "changeable": 1
+    },
+{
+      "key": "黄色仓库.py",
+      "name": "💥黄色仓库💥",
+      "api": "./lib/黄色仓库动态版.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "夜勾心事.py",
+      "name": "夜勾心事",
+      "type": 3,
+      "api": "./lib/夜勾心事.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "精仙阁6.py",
+      "name": "💥精仙阁0💥",
+      "api": "./lib/精仙阁修复版.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "93合1.py",
+      "name": "💥93合1💥",
+      "api": "./lib/93合1.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "missav免翻全分类版.py",
+      "name": "💥missav免翻全分类版💥",
+      "api": "./lib/missav免翻全分类版.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "茄子精品.py",
+      "name": "💥茄子精品💥",
+      "api": "./lib/茄子精品.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "madou8.py",
+      "name": "💥madou8💥",
+      "api": "./lib/madou8.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "ko4py",
+      "name": "💥1ko4💥",
+      "api": "./lib/ko4.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "88影视",
+      "name": "💥88影视💥",
+      "api": "./lib/88影视.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "ayyc",
+      "name": "88影视",
+      "type": 3,
+      "api": "./lib/88影视(秒播).py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://88ayyc35.6p.tattoo"
+    },
+    {
+      "key": "lissav.py",
+      "name": "💥lissav💥",
+      "api": "./lib/lissav.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "xHamster888.py",
+      "name": "💥xHamster888💥",
+      "api": "./lib/xHamster.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "人妻偷情.py",
+      "name": "💥人妻偷情💥",
+      "api": "./lib/人妻偷情.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "私房研究所.py",
+      "name": "💥私房研究所💥",
+      "api": "./lib/私房研究所.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "911爆料.py",
+      "name": "💥911爆料💥",
+      "api": "./lib/911爆料.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "iSese影库.py",
+      "name": "💥iSese影库💥",
+      "api": "./lib/iSese影库.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "小学妹.py",
+      "name": "💥小学妹💥",
+      "api": "./lib/小学妹.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "骚女档案馆.py",
+      "name": "💥骚女档案馆💥",
+      "api": "./lib/骚女档案馆.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "专草校花.py",
+      "name": "💥专草校花💥",
+      "api": "./lib/专草校花.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "一牛影视.py",
+      "name": "💥一牛影视💥",
+      "api": "./lib/一牛影视.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "撸壮元.py",
+      "name": "💥撸壮元💥",
+      "api": "./lib/撸壮元.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "51暗网.py",
+      "name": "💥51暗网💥",
+      "api": "./lib/51暗网.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "神秘影院.py",
+      "name": "💥神秘影院💥",
+      "api": "./lib/神秘影院.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "蜜桃AV.py",
+      "name": "💥蜜桃AV💥",
+      "api": "./lib/蜜桃AV.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "少妇喝多了.py",
+      "name": "💥少妇喝多了💥",
+      "api": "./lib/少妇喝多了.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "VV视频.py",
+      "name": "💥VV视频💥",
+      "api": "./lib/VV视频.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "真实未流出.py",
+      "name": "💥真实未流出💥",
+      "api": "./lib/真实未流出.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "猫咪AV.py",
+      "name": "💥猫咪AV💥",
+      "api": "./lib/猫咪AV.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "四色.py",
+      "name": "💥四色💥",
+      "api": "./lib/四色.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "2048基地.py",
+      "name": "💥2048基地💥",
+      "api": "./lib/2048基地.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "撸到死.py",
+      "name": "💥撸到死💥",
+      "api": "./lib/撸到死.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "91黑料网8.py",
+      "name": "💥91黑料网​5💥",
+      "api": "./lib/91黑料网.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "色播聚合.py",
+      "name": "💥色播聚合444💥",
+      "api": "./lib/sebojuhe.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "18av[密].py",
+      "name": "💥18av[密]💥",
+      "api": "./lib/18av[密].py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "韩国BJ.py",
+      "name": "💥韩国BJ💥",
+      "api": "./lib/韩国BJ.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "黑色影视",
+      "name": "💞黑色影视💞",
+      "type": 1,
+      "api": "https://heiliaozyapi.com/api.php/provide/vod/",
+      "changeable": 1
+    },
+    {
+      "key": "禁片天堂.py",
+      "name": "💥禁片天堂💥",
+      "api": "./lib/禁片天堂.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "妲己.py",
+      "name": "💥妲己💥",
+      "api": "./lib/妲己.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "51爆料.py",
+      "name": "💥51爆料💥",
+      "type": 3,
+      "api": "./lib/51爆料.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "歪比影视",
+      "name": "👭歪比影视👭",
+      "type": 1,
+      "api": "https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335664104148992?token=banye666",
+      "changeable": 1
+    },
+    {
+      "key": "yzzyCMS",
+      "name": "👭优质资源👭",
+      "type": 1,
+      "api": "https://api.yyzy-tv.vip/inc/api_mac10_all.php",
+      "changeable": 1
+    },
+    {
+      "key": "xfzyCMS",
+      "name": "👭幸福资源👭",
+      "type": 1,
+      "api": "https://json.xingba222.com/api.php/provide/vod/",
+      "changeable": 1
+    },
+    {
+      "key": "jpwwCMS",
+      "name": "👭极品资源👭",
+      "type": 1,
+      "api": "https://jipinvip1.com/api.php/provide/vod/",
+      "changeable": 1
+    },
+    {
+      "key": "dddCMS",
+      "name": "👭豆豆资源👭",
+      "type": 1,
+      "api": "https://api.douapi.cc/api.php/provide/vod/",
+      "changeable": 1
+    },
+  
+    {
+      "key": "大地资源",
+      "name": "💞大地资源💞",
+      "type": 0,
+      "api": "https://dadiapi.com/api.php",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
+      "key": "huosuapi",
+      "name": "💞火速资源💞",
+      "type": 1,
+      "api": "https://api.huosuapi.cc/api.php/provide/vod/",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 0
+    },
+    {
+      "key": "heiheizy",
+      "name": "💞嘿嘿资源💞",
+      "type": 1,
+      "api": "https://api.heiapi.cc/api.php/provide/vod/",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 0
+    },
+    {
+      "key": "赤铜CMS",
+      "name": "👭赤铜👭",
+      "type": 1,
+      "api": "http://pg.cttv.vip/api.php/provide/vod/",
+      "changeable": 1
+    }
+  ],
+  "parses": [
+    {
+      "name": "自动解析",
+      "type": 2,
+      "url": "Parallel"
+    },
+    {
+      "group": "软解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
+      ]
+    },
+    {
+      "group": "硬解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
+      ]
+    }
+  ],
+  "ads": [
+    "static-mozai.4gtv.tv"
+  ],
+  "lives": [
+    {
+      "name": "🐬各大源合集 海豚影视永久免费如有收费的都是骗子",
+      "type": 0,
+      "ua": "okhttp/5.3.2",
+      "url": "./lib/sese.txt"
+    }
+  ]
+}
